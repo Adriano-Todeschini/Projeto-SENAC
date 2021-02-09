@@ -1,0 +1,1 @@
+alert ("Olá! Esse é seu primeiro comando JavAScript.");
