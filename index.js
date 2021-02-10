@@ -1,1 +1,2 @@
-alert ("Olá! Esse é o meu primeiro comando JavAScript.");
+alert ("Olá! Esse é o meu primeiro comando JavAScript!");
+console.log('Imprimindo de outra maneira');
