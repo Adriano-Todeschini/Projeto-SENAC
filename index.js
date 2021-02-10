@@ -1,1 +1,1 @@
-alert ("Olá! Esse é seu primeiro comando JavAScript.");
+alert ("Olá! Esse é o meu primeiro comando JavAScript.");
