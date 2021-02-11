@@ -6,6 +6,4 @@ var mensagem = prompt('Digite sua mensagem');
 
 alert('Remetente: ' + remetente);
 alert('Destinatário: ' + destinatário);
-
-
-alert('Mesangem: ' + mensagem)
+alert('Mesangem: ' + mensagem);
