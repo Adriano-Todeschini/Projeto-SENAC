@@ -1,6 +1,11 @@
-alert ("Olá! Esse é o meu primeiro comando JavAScript!");
-console.log('Imprimindo de outra maneira');
+alert("Olá! Esse é o meu primeiro comando JavAScript!");
 
-var nome = prompt('Digite seu nome: ')
+var remetente = prompt('Qual o nome do remetente?');
+var destinatário = prompt('Qual o nome do destinatário?');
+var mensagem = prompt('Digite sua mensagem');
 
-alert('Seu nome é ' + nome)
+alert('Remetente: ' + remetente);
+alert('Destinatário: ' + destinatário);
+
+
+alert('Mesangem: ' + mensagem)
