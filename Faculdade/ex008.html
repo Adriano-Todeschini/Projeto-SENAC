@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        var resposta;
+        resposta = prompt('Bota ovos?')
+        //dessa forma defino uma variavel padrão e uso ela para todos
+
+        if(resposta == 'sim'){
+
+            resposta = prompt('Tem penas?')
+
+            if(resposta == 'sim'){
+                alert('Não é réptil')
+            }
+            else{
+                resposta = prompt('Respira na água?')
+
+                if(resposta =='sim'){
+                    alert('Não é réptil')
+                }
+                else{
+                    alert('É réptil!!')
+                }
+            }
+        }
+        else{
+            alert('Não é réptil')
+        }
+
+    </script>
+</body>
+</html>
